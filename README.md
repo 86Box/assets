@@ -4,6 +4,9 @@ This repository contains all assets needed by the [86Box](https://github.com/86B
 
 Note that some assets in this repository may be for dev-branched machines and devices, meaning that they will not do anything on regular release builds. If you are confused why some device does not appear despite the asset being present in the set, check that you are using an appropriate build of 86Box before reporting issues.
 
+## Installation instuctions
+Clone the repo and place the assets-main folder in the same folder as where your 86Box executable and ROMS folder is. Rename the folder from assets-main to just assets and you're ready to go.
+
 ## Contributing assets
 Before new assets can be accepted in this repository, the code that uses the assets needs to be in the upstream 86Box repository. Once you've made an 86Box pull request, open a pull request here. This applies to removals as well in inverse. 
 
